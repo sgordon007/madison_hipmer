@@ -1,0 +1,293 @@
+AYSBC.10348.2.157955.AGTCAA.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_115	stats_assembly	N50	19687
+
+AYSBN.10348.4.157965.CGTACG.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_101	stats_assembly	N50	11858
+
+AYSBB.10343.7.157719.TGACCA.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_115	stats_assembly	N50	1631
+
+AYSBC.10348.2.157955.AGTCAA.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_101	stats_assembly	N50	17129
+
+AYSBO.10343.8.157724.CAGATC.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_101	stats_assembly	N50	11833
+
+AYSBC.10348.2.157955.AGTCAA.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_91	  stats_assembly	N50	9964
+
+AYSBH.10348.3.157960.GTAGAG.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_115	stats_assembly	N50	10106
+
+AYSBB.10343.7.157719.TGACCA.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_115	stats_assembly	N50	1218
+
+AYSBN.10348.4.157965.CGTACG.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_145	stats_assembly	N50	12915
+
+AYSBG.10343.7.157719.ACAGTG.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_71	  stats_assembly	N50	32119
+
+AYSBO.10343.8.157724.CAGATC.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_91	  stats_assembly	N50	6779
+
+AYSBN.10348.4.157965.CGTACG.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_115	stats_assembly	N50	13007
+
+AYSBP.10348.3.157960.GTCCGC.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_115	stats_assembly	N50	17101
+
+AYSBN.10348.4.157965.CGTACG.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_131	stats_assembly	N50	546
+
+AYSBO.10343.8.157724.CAGATC.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_131	stats_assembly	N50	1867
+
+AYSBO.10343.8.157724.CAGATC.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_115	stats_assembly	N50	3777
+
+AYSBH.10348.3.157960.GTAGAG.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_145	stats_assembly	N50	20664
+
+AYSBO.10343.8.157724.CAGATC.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_145	stats_assembly	N50	12576
+
+AYSBB.10343.7.157719.TGACCA.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_71	  stats_assembly	N50	4790
+
+AYSBC.10348.2.157955.AGTCAA.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_71	  stats_assembly	N50	43452
+
+AYSBN.10348.4.157965.CGTACG.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_115	stats_assembly	N50	4084
+
+AYSBB.10343.7.157719.TGACCA.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_91	  stats_assembly	N50	1969
+
+AYSBC.10348.2.157955.AGTCAA.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_71	  stats_assembly	N50	51522
+
+AYSBG.10343.7.157719.ACAGTG.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_101	stats_assembly	N50	8686
+
+AYSBG.10343.7.157719.ACAGTG.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_101	stats_assembly	N50	2697
+
+AYSBN.10348.4.157965.CGTACG.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_91	  stats_assembly	N50	20566
+
+AYSBP.10348.3.157960.GTCCGC.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_115	stats_assembly	N50	6021
+
+AYSBH.10348.3.157960.GTAGAG.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_91	  stats_assembly	N50	37778
+
+AYSBP.10348.3.157960.GTCCGC.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_71	  stats_assembly	N50	37247
+
+AYSBC.10348.2.157955.AGTCAA.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_115	stats_assembly	N50	6023
+
+AYSBG.10343.7.157719.ACAGTG.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_131	stats_assembly	N50	1359
+
+AYSBB.10343.7.157719.TGACCA.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_71	  stats_assembly	N50	4402
+
+AYSBG.10343.7.157719.ACAGTG.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_115	stats_assembly	N50	873
+
+AYSBP.10348.3.157960.GTCCGC.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_145	stats_assembly	N50	20571
+
+AYSBN.10348.4.157965.CGTACG.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_145	stats_assembly	N50	4261
+
+AYSBC.10348.2.157955.AGTCAA.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_115	stats_assembly	N50	2567
+
+AYSBN.10348.4.157965.CGTACG.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_131	stats_assembly	N50	2105
+
+AYSBN.10348.4.157965.CGTACG.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_101	stats_assembly	N50	38052
+
+AYSBB.10343.7.157719.TGACCA.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_145	stats_assembly	N50	21549
+
+AYSBP.10348.3.157960.GTCCGC.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_71	  stats_assembly	N50	48214
+
+AYSBP.10348.3.157960.GTCCGC.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_101	stats_assembly	N50	15061
+
+AYSBH.10348.3.157960.GTAGAG.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_101	stats_assembly	N50	3847
+
+AYSBH.10348.3.157960.GTAGAG.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_145	stats_assembly	N50	11549
+
+AYSBG.10343.7.157719.ACAGTG.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_71	  stats_assembly	N50	47884
+
+AYSBC.10348.2.157955.AGTCAA.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_145	stats_assembly	N50	19238
+
+AYSBO.10343.8.157724.CAGATC.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_131	stats_assembly	N50	420
+
+AYSBO.10343.8.157724.CAGATC.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_115	stats_assembly	N50	13533
+
+AYSBH.10348.3.157960.GTAGAG.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_131	stats_assembly	N50	367
+
+AYSBB.10343.7.157719.TGACCA.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_131	stats_assembly	N50	561
+
+AYSBB.10343.7.157719.TGACCA.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_131	stats_assembly	N50	7321
+
+AYSBH.10348.3.157960.GTAGAG.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_101	stats_assembly	N50	9109
+
+AYSBO.10343.8.157724.CAGATC.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_71	  stats_assembly	N50	47857
+
+AYSBN.10348.4.157965.CGTACG.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_115	stats_assembly	N50	1546
+
+AYSBN.10348.4.157965.CGTACG.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_71	  stats_assembly	N50	46378
+
+AYSBN.10348.4.157965.CGTACG.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_131	stats_assembly	N50	19408
+
+AYSBO.10343.8.157724.CAGATC.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_101	stats_assembly	N50	41012
+
+AYSBG.10343.7.157719.ACAGTG.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_115	stats_assembly	N50	2770
+
+AYSBB.10343.7.157719.TGACCA.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_145	stats_assembly	N50	5756
+
+AYSBB.10343.7.157719.TGACCA.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_115	stats_assembly	N50	3689
+
+AYSBP.10348.3.157960.GTCCGC.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_131	stats_assembly	N50	3345
+
+AYSBN.10348.4.157965.CGTACG.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_145	stats_assembly	N50	8039
+
+AYSBH.10348.3.157960.GTAGAG.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_71	  stats_assembly	N50	25263
+
+AYSBG.10343.7.157719.ACAGTG.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_131	stats_assembly	N50	905
+
+AYSBP.10348.3.157960.GTCCGC.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_91	  stats_assembly	N50	25051
+
+AYSBC.10348.2.157955.AGTCAA.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_101	stats_assembly	N50	57201
+
+AYSBC.10348.2.157955.AGTCAA.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_131	stats_assembly	N50	3192
+
+AYSBC.10348.2.157955.AGTCAA.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_131	stats_assembly	N50	5919
+
+AYSBP.10348.3.157960.GTCCGC.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_101	stats_assembly	N50	6027
+
+AYSBP.10348.3.157960.GTCCGC.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_91	  stats_assembly	N50	62718
+
+AYSBH.10348.3.157960.GTAGAG.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_71	  stats_assembly	N50	42440
+
+AYSBH.10348.3.157960.GTAGAG.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_131	stats_assembly	N50	2165
+
+AYSBC.10348.2.157955.AGTCAA.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_131	stats_assembly	N50	1115
+
+AYSBG.10343.7.157719.ACAGTG.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_101	stats_assembly	N50	31227
+
+AYSBB.10343.7.157719.TGACCA.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_131	stats_assembly	N50	30461
+
+AYSBC.10348.2.157955.AGTCAA.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_145	stats_assembly	N50	40273
+
+AYSBH.10348.3.157960.GTAGAG.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_101	stats_assembly	N50	24806
+
+AYSBO.10343.8.157724.CAGATC.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_91	  stats_assembly	N50	22093
+
+AYSBG.10343.7.157719.ACAGTG.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_131	stats_assembly	N50	31029
+
+AYSBB.10343.7.157719.TGACCA.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_91	  stats_assembly	N50	5770
+
+AYSBO.10343.8.157724.CAGATC.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_115	stats_assembly	N50	1250
+
+AYSBB.10343.7.157719.TGACCA.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_145	stats_assembly	N50	12916
+
+AYSBO.10343.8.157724.CAGATC.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_145	stats_assembly	N50	8261
+
+AYSBH.10348.3.157960.GTAGAG.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_131	stats_assembly	N50	18400
+
+AYSBH.10348.3.157960.GTAGAG.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_91	  stats_assembly	N50	14438
+
+AYSBG.10343.7.157719.ACAGTG.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_91	  stats_assembly	N50	4983
+
+AYSBH.10348.3.157960.GTAGAG.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_91	  stats_assembly	N50	6032
+
+AYSBH.10348.3.157960.GTAGAG.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_145	stats_assembly	N50	4848
+
+AYSBB.10343.7.157719.TGACCA.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_101	stats_assembly	N50	8942
+
+AYSBP.10348.3.157960.GTCCGC.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_145	stats_assembly	N50	12913
+
+AYSBO.10343.8.157724.CAGATC.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_131	stats_assembly	N50	27988
+
+AYSBN.10348.4.157965.CGTACG.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_91	  stats_assembly	N50	57266
+
+AYSBB.10343.7.157719.TGACCA.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_101	stats_assembly	N50	1184
+
+AYSBG.10343.7.157719.ACAGTG.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_145	stats_assembly	N50	15783
+
+AYSBB.10343.7.157719.TGACCA.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_91	  stats_assembly	N50	11192
+
+AYSBN.10348.4.157965.CGTACG.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_71	  stats_assembly	N50	33907
+
+AYSBO.10343.8.157724.CAGATC.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_71	  stats_assembly	N50	35939
+
+AYSBG.10343.7.157719.ACAGTG.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_145	stats_assembly	N50	21543
+
+AYSBO.10343.8.157724.CAGATC.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_145	stats_assembly	N50	21543
+
+AYSBO.10343.8.157724.CAGATC.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_91	  stats_assembly	N50	59044
+
+AYSBP.10348.3.157960.GTCCGC.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_101	stats_assembly	N50	44286
+
+AYSBP.10348.3.157960.GTCCGC.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_115	stats_assembly	N50	2664
+
+AYSBB.10343.7.157719.TGACCA.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_101	stats_assembly	N50	3155
+
+AYSBP.10348.3.157960.GTCCGC.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_145	stats_assembly	N50	7205
+
+AYSBB.10343.7.157719.TGACCA.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_71	  stats_assembly	N50	11124
+
+AYSBC.10348.2.157955.AGTCAA.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_91	  stats_assembly	N50	76052
+
+AYSBO.10343.8.157724.CAGATC.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_101	stats_assembly	N50	3687
+
+AYSBG.10343.7.157719.ACAGTG.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_145	stats_assembly	N50	7348
+
+AYSBG.10343.7.157719.ACAGTG.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_115	stats_assembly	N50	9834
+
+AYSBC.10348.2.157955.AGTCAA.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_71	  stats_assembly	N50	20787
+
+AYSBO.10343.8.157724.CAGATC.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_71	  stats_assembly	N50	15979
+
+AYSBH.10348.3.157960.GTAGAG.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_115	stats_assembly	N50	1569
+
+AYSBN.10348.4.157965.CGTACG.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_91	  stats_assembly	N50	7167
+
+AYSBG.10343.7.157719.ACAGTG.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_71	  stats_assembly	N50	12584
+
+AYSBP.10348.3.157960.GTCCGC.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_71	  stats_assembly	N50	17511
+
+AYSBP.10348.3.157960.GTCCGC.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_131	stats_assembly	N50	1153
+
+AYSBG.10343.7.157719.ACAGTG.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_91	  stats_assembly	N50	51136
+
+AYSBP.10348.3.157960.GTCCGC.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_131	stats_assembly	N50	7611
+
+AYSBC.10348.2.157955.AGTCAA.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_145	stats_assembly	N50	8101
+
+AYSBC.10348.2.157955.AGTCAA.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_91	  stats_assembly	N50	30459
+
+AYSBN.10348.4.157965.CGTACG.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_101	stats_assembly	N50	4056
+
+AYSBN.10348.4.157965.CGTACG.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_71	  stats_assembly	N50	14729
+
+AYSBH.10348.3.157960.GTAGAG.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_71	  stats_assembly	N50	11138
+
+AYSBH.10348.3.157960.GTAGAG.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_115	stats_assembly	N50	3879
+
+AYSBP.10348.3.157960.GTCCGC.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_91	  stats_assembly	N50	9556
+
+AYSBC.10348.2.157955.AGTCAA.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_101	stats_assembly	N50	5956
+
+AYSBG.10343.7.157719.ACAGTG.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_91	  stats_assembly	N50	16346
+
+AYSBO.10343.8.157724.CAGATC.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_57_87_127  stats_assembly  N50     47094
+
+AYSBP.10348.3.157960.GTCCGC.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_57_87_127  stats_assembly  N50     50854
+
+AYSBC.10348.2.157955.AGTCAA.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_57_87_127  stats_assembly  N50     88788
+
+AYSBN.10348.4.157965.CGTACG.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_57_87_127  stats_assembly  N50     47294
+
+AYSBH.10348.3.157960.GTAGAG.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_57_87_127  stats_assembly  N50     8171
+
+AYSBC.10348.2.157955.AGTCAA.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_57_87_127  stats_assembly  N50     56611
+
+AYSBB.10343.7.157719.TGACCA.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_57_87_127  stats_assembly  N50     3910
+
+AYSBP.10348.3.157960.GTCCGC.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_57_87_127  stats_assembly  N50     12317
+
+AYSBG.10343.7.157719.ACAGTG.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_57_87_127  stats_assembly  N50     75538
+
+AYSBG.10343.7.157719.ACAGTG.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_57_87_127  stats_assembly  N50     42548
+
+AYSBB.10343.7.157719.TGACCA.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_57_87_127  stats_assembly  N50     3595
+
+AYSBG.10343.7.157719.ACAGTG.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_57_87_127  stats_assembly  N50     9292
+
+AYSBC.10348.2.157955.AGTCAA.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_57_87_127  stats_assembly  N50     14031
+
+AYSBP.10348.3.157960.GTCCGC.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_57_87_127  stats_assembly  N50     86527
+
+AYSBN.10348.4.157965.CGTACG.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_57_87_127  stats_assembly  N50     78785
+
+AYSBH.10348.3.157960.GTAGAG.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_57_87_127  stats_assembly  N50     76005
+
+AYSBO.10343.8.157724.CAGATC.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_57_87_127  stats_assembly  N50     11082
+
+AYSBO.10343.8.157724.CAGATC.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_57_87_127  stats_assembly  N50     78732
+
+AYSBN.10348.4.157965.CGTACG.anqdpht.fastq.config.rundir.min_depth_cutoff_7.mer_sizes_57_87_127  stats_assembly  N50     10646
+
+AYSBH.10348.3.157960.GTAGAG.anqdpht.fastq.config.rundir.min_depth_cutoff_4.mer_sizes_57_87_127  stats_assembly  N50     35014
+
+AYSBB.10343.7.157719.TGACCA.anqdpht.fastq.config.rundir.min_depth_cutoff_2.mer_sizes_57_87_127  stats_assembly  N50     6205
